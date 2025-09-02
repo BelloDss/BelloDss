@@ -22,7 +22,7 @@ Me chamo Matheus Bello, tenho 20 anos e sou natural de São Paulo (Sorocaba). Co
 </p>
 
 ---
-### 🤖 Linguagens e Tecnologias que prático atualmente
+### 🤖 Linguagens e Tecnologias estudadas no momento 
 
 <img 
     align="left" 
