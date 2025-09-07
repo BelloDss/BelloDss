@@ -8,7 +8,7 @@ Me chamo Matheus Bello, tenho 20 anos e sou natural de São Paulo (Sorocaba). Co
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-bello" target="_blank">
     <img 
-        alt="LinkedIn" 
+        alt="LinkedIn " 
         title="Conecte-se comigo no LinkedIn" 
         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conexão-blue?logo=linkedin&logoColor=white&style=for-the-badge"
     />
