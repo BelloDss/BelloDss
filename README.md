@@ -2,7 +2,7 @@
 
 **`Estudante Dev. C#`**
 
-Me chamo Matheus Bello, tenho 20 anos e sou natural de São Paulo (Sorocaba). Concluí o ensino médio no SESI Votorantim, enquanto realizava o curso técnico em Análise e Desenvolvimento de Sistemas pela ETEC. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI Luiz Pagliato como formação técnica, junto a empresa que sou aprendiz de TI, no caso a Clarios Energy. Curso Ensino Superior em ADS pela UNIP (Sorocaba). Desde criança tenho interesse em hardware, e hoje estou focado no desenvolvimento de sistemas e areas correlatas.
+Me chamo Matheus Bello, tenho 20 anos e sou natural de São Paulo (Sorocaba). Concluí o ensino médio no SESI Votorantim, enquanto realizava o curso técnico em Análise e Desenvolvimento de Sistemas pela ETEC. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI Luiz Pagliato como formação técnica, junto a empresa que sou aprendiz de TI, no caso a Clarios Energy. Curso Ensino Superior em ADS pela UNIP (Sorocaba).Desde criança tenho interesse em hardware, e hoje estou focado no desenvolvimento de sistemas e areas correlatas.
 
 
 <p align="left">
